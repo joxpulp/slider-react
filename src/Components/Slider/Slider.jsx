@@ -65,7 +65,7 @@ function Slider({children, autoPlay, size}) {
 }
 
 Slider.propTypes = {
-     /** This prop receives a number wich 
+     /** This prop receives a number which 
       * represents the duration 
       * in seconds until the
       * other element is showed
